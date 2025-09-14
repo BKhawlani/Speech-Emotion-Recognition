@@ -1,0 +1,10 @@
+speechrecognition
+pydub
+torch
+transformers
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
